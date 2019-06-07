@@ -2,6 +2,10 @@
 
 Small and simple feature flags based on environment variables for your project.
 
+## Status
+
+[![Build Status](https://secure.travis-ci.org/roughy/little-flags.svg?branch=master)](https://travis-ci.org/roughy/little-flags)
+
 ## What are feature flags
 
 Feature flags (also feature toggles) are a pattern to en-/disable certain features in a software.
